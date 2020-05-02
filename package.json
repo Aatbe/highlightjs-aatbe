@@ -1,0 +1,22 @@
+{
+  "name": "highlightjs-aatbe",
+  "version": "1.0.0",
+  "description": "highlight.js syntax definition for aatbe-lang",
+  "main": "aatbe.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chronium/highlightjs-aatbe.git"
+  },
+  "author": "Andrei Dimitriu <author@aatbe-lang.org> (@Chronium)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chronium/highlightjs-aatbe/issues"
+  },
+  "homepage": "https://github.com/chronium/highlightjs-aatbe#readme",
+  "devDependencies": {
+    "highlight.js": "^10.0.1"
+  }
+}
